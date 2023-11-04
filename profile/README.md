@@ -1,3 +1,5 @@
-<img src="https://github.com/xpipe-io/xpipe/assets/72509152/88d750f3-8469-4c51-bb64-5b264b0e9d47" alt="Logo" width="250"/>
+## XPipe
+
+XPipe is a new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine. It works on top of your installed command-line programs and does not require any setup on your remote systems.
 
 The XPipe project is designed to be an open platform. It is designed to be extensible, allowing anyone to implement custom functionality through extensions. Besides from the main repository, you will also find various used helper libraries, package manager reposities, and the website repository here.
